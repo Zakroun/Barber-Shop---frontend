@@ -18,11 +18,12 @@ const ContactSection = () => {
   const handleSubmit = async (e) => {
     e.preventDefault();
     setStatus('sending');
+    const newFormData = { ...formData, language: t('language') };
     try {
-      const res = await fetch('http://localhost:5000/api/contact', {
+      const res = await fetch('https://royalbarbershopapi.vercel.app/api/contact', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify(formData),
+        body: JSON.stringify(newFormData),
       });
       if (res.ok) {
         setStatus('success');
