@@ -1,0 +1,103 @@
+{
+  "nav": {
+    "home": "Home",
+    "services": "Services",
+    "team": "Team",
+    "gallery": "Gallery",
+    "contact": "Contact",
+    "book": "Book Now"
+  },
+  "hero": {
+    "tagline": "Style. Precision. Excellence.",
+    "title": "The Art of",
+    "title2": "Royal Barber",
+    "subtitle": "A premium barbershop experience in the heart of the city. Precision, style and care for the modern man.",
+    "cta": "Book Now",
+    "cta2": "Our Services",
+    "scrollDown": "Scroll down"
+  },
+  "services": {
+    "title": "Our Services",
+    "subtitle": "Excellence & Precision",
+    "description": "Every service is crafted with care and expertise to give you the best.",
+    "haircut": {
+      "name": "Classic Haircut",
+      "desc": "Precise and stylish haircut, tailored to your face shape."
+    },
+    "beard": {
+      "name": "Beard Shaping",
+      "desc": "Professional beard shaping and maintenance techniques."
+    },
+    "shave": {
+      "name": "Royal Shave",
+      "desc": "Traditional straight razor shave for a perfect finish."
+    },
+    "color": {
+      "name": "Hair Coloring",
+      "desc": "Natural and trendy coloring for hair and beard."
+    },
+    "package": {
+      "name": "Full Package",
+      "desc": "Haircut + beard + facial treatment: the ultimate experience."
+    },
+    "luxury": {
+      "name": "Luxury Treatment",
+      "desc": "Premium treatment with high-end products and scalp massage."
+    },
+    "from": "From",
+    "bookNow": "Book"
+  },
+  "team": {
+    "title": "Our Team",
+    "subtitle": "The Style Artisans",
+    "description": "Passionate barbers with years of experience.",
+    "speciality": "Specialty",
+    "book": "Book with"
+  },
+  "gallery": {
+    "title": "Gallery",
+    "subtitle": "Our Portfolio",
+    "description": "Discover our work and get inspired.",
+    "all": "All",
+    "haircuts": "Haircuts",
+    "beards": "Beards",
+    "styles": "Styles"
+  },
+  "contact": {
+    "title": "Contact",
+    "subtitle": "Book an Appointment",
+    "description": "Book your session and transform your look.",
+    "name": "Full Name",
+    "email": "Email",
+    "phone": "Phone",
+    "service": "Desired Service",
+    "date": "Preferred Date",
+    "message": "Message",
+    "send": "Send Request",
+    "sending": "Sending...",
+    "success": "Message sent successfully! We'll contact you soon.",
+    "error": "Error sending. Please try again.",
+    "address": "Address",
+    "phone_label": "Phone",
+    "hours": "Opening Hours",
+    "hours_value": "Mon-Sat: 9:00 AM - 8:00 PM",
+    "whatsapp": "Book via WhatsApp",
+    "selectService": "Select a service"
+  },
+  "cta": {
+    "title": "Ready for a New Look?",
+    "subtitle": "Book your session today and let our experts take care of you.",
+    "button": "Book Now",
+    "phone": "Or call us"
+  },
+  "footer": {
+    "tagline": "Style, Precision, Excellence",
+    "desc": "Your trusted barber for a premium experience.",
+    "links": "Quick Links",
+    "contact": "Contact",
+    "follow": "Follow Us",
+    "rights": "All rights reserved.",
+    "made": "Made with passion"
+  },
+  "loading": "Loading..."
+}

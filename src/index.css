@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600;700;800;900&family=Poppins:wght@300;400;500;600&family=Inter:wght@300;400;500&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* { margin: 0; padding: 0; box-sizing: border-box; }
+html { scroll-behavior: smooth; }
+body { font-family: 'Inter', sans-serif; background-color: #000; color: #fff; overflow-x: hidden; }
+
+::-webkit-scrollbar { width: 4px; }
+::-webkit-scrollbar-track { background: #000; }
+::-webkit-scrollbar-thumb { background: #E10600; border-radius: 2px; }
+
+.font-montserrat { font-family: 'Montserrat', sans-serif; }
+.font-poppins { font-family: 'Poppins', sans-serif; }
+
+@keyframes shimmer {
+  0% { background-position: -200% 0; }
+  100% { background-position: 200% 0; }
+}
+.skeleton {
+  background: linear-gradient(90deg, #1a1a1a 25%, #2a2a2a 50%, #1a1a1a 75%);
+  background-size: 200% 100%;
+  animation: shimmer 1.5s infinite;
+}
+
+@keyframes barberPole {
+  from { background-position: 0 0; }
+  to { background-position: 0 60px; }
+}
+.barber-pole {
+  background: repeating-linear-gradient(0deg, #E10600, #E10600 10px, #fff 10px, #fff 20px, #000 20px, #000 30px);
+  animation: barberPole 1s linear infinite;
+}

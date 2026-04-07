@@ -1,0 +1,103 @@
+{
+  "nav": {
+    "home": "Accueil",
+    "services": "Services",
+    "team": "Équipe",
+    "gallery": "Galerie",
+    "contact": "Contact",
+    "book": "Réserver"
+  },
+  "hero": {
+    "tagline": "Style. Précision. Excellence.",
+    "title": "L'Art du",
+    "title2": "Barbier Royal",
+    "subtitle": "Une expérience de coiffure premium au cœur de la ville. Précision, style et soin pour l'homme moderne.",
+    "cta": "Réserver Maintenant",
+    "cta2": "Voir Nos Services",
+    "scrollDown": "Défiler vers le bas"
+  },
+  "services": {
+    "title": "Nos Services",
+    "subtitle": "Excellence & Précision",
+    "description": "Chaque service est réalisé avec soin et expertise pour vous offrir le meilleur.",
+    "haircut": {
+      "name": "Coupe Classique",
+      "desc": "Coupe de cheveux précise et stylisée, adaptée à votre morphologie."
+    },
+    "beard": {
+      "name": "Taille de Barbe",
+      "desc": "Façonnage et entretien de barbe avec des techniques professionnelles."
+    },
+    "shave": {
+      "name": "Rasage Royal",
+      "desc": "Rasage traditionnel au rasoir droit pour une finition parfaite."
+    },
+    "color": {
+      "name": "Coloration",
+      "desc": "Colorations naturelles et tendances pour cheveux et barbe."
+    },
+    "package": {
+      "name": "Pack Complet",
+      "desc": "Coupe + barbe + soin du visage : l'expérience ultime."
+    },
+    "luxury": {
+      "name": "Soin Luxe",
+      "desc": "Traitement premium avec produits haut de gamme et massage cuir chevelu."
+    },
+    "from": "À partir de",
+    "bookNow": "Réserver"
+  },
+  "team": {
+    "title": "Notre Équipe",
+    "subtitle": "Les Artisans du Style",
+    "description": "Des barbiers passionnés avec des années d'expérience.",
+    "speciality": "Spécialité",
+    "book": "Réserver avec"
+  },
+  "gallery": {
+    "title": "Galerie",
+    "subtitle": "Notre Portfolio",
+    "description": "Découvrez nos réalisations et laissez-vous inspirer.",
+    "all": "Tous",
+    "haircuts": "Coupes",
+    "beards": "Barbes",
+    "styles": "Styles"
+  },
+  "contact": {
+    "title": "Contact",
+    "subtitle": "Prendre Rendez-vous",
+    "description": "Réservez votre session et transformez votre look.",
+    "name": "Nom Complet",
+    "email": "Email",
+    "phone": "Téléphone",
+    "service": "Service Souhaité",
+    "date": "Date Préférée",
+    "message": "Message",
+    "send": "Envoyer la Demande",
+    "sending": "Envoi en cours...",
+    "success": "Message envoyé avec succès ! Nous vous contacterons bientôt.",
+    "error": "Erreur lors de l'envoi. Veuillez réessayer.",
+    "address": "Adresse",
+    "phone_label": "Téléphone",
+    "hours": "Horaires",
+    "hours_value": "Lun-Sam: 9h00 - 20h00",
+    "whatsapp": "Réserver via WhatsApp",
+    "selectService": "Choisir un service"
+  },
+  "cta": {
+    "title": "Prêt pour une Nouvelle Image ?",
+    "subtitle": "Réservez votre session aujourd'hui et laissez nos experts s'occuper de vous.",
+    "button": "Réserver Maintenant",
+    "phone": "Ou appelez-nous"
+  },
+  "footer": {
+    "tagline": "Style, Précision, Excellence",
+    "desc": "Votre barbier de confiance pour une expérience premium.",
+    "links": "Liens Rapides",
+    "contact": "Contact",
+    "follow": "Suivez-nous",
+    "rights": "Tous droits réservés.",
+    "made": "Fait avec passion"
+  },
+  "loading": "Chargement..."
+}
