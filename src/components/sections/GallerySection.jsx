@@ -24,7 +24,7 @@ const GalleryCard = ({ item, index }) => {
       </div>
 
       {/* Style label */}
-      <div className="absolute bottom-4 left-4 font-poppins text-white/40 text-xs tracking-widest uppercase">
+      <div className="absolute bottom-4 left-4 font-poppins text-white text-xs tracking-widest uppercase">
         {item.style}
       </div>
 

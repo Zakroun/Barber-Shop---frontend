@@ -86,9 +86,9 @@ const Navbar = () => {
                 className="flex items-center gap-2 font-poppins text-xs font-medium tracking-wider text-gray-400 hover:text-white transition-colors duration-200 border border-white/10 hover:border-white/30 px-3 py-1.5 rounded"
               >
                 {i18n.language === 'fr' ? (
-                  <><img src="/assets/fr.png" alt="flag" className='w-5'/> <span>FR</span> <span className="text-white/20">|</span> <span className="text-white/40">EN</span></>
+                  <><img src="/assets/fr.png" alt="flag" className='w-5'/> <span>FR</span> <span className="text-white/20">|</span> <span className="text-white/80">EN</span></>
                 ) : (
-                  <><img src="/assets/uk.png" alt="flag" className='w-5'/> <span>EN</span> <span className="text-white/20">|</span> <span className="text-white/40">FR</span></>
+                  <><img src="/assets/uk.png" alt="flag" className='w-5'/> <span>EN</span> <span className="text-white/20">|</span> <span className="text-white/80">FR</span></>
                 )}
               </button>
 
